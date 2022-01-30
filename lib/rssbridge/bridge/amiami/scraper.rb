@@ -1,3 +1,7 @@
+require 'ferrum'
+require 'nokogiri'
+require 'rssbridge'
+
 module Rssbridge
   module Bridge
     module Amiami
