@@ -4,4 +4,4 @@ source "https://rubygems.org"
 
 gemspec
 
-gem 'rssbridge', git: "/home/quintasan/Sauce/rssbridge"
+gem 'rssbridge', git: "https://github.com/Quintasan/rssbridge.git"

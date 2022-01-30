@@ -1,8 +1,9 @@
 GIT
-  remote: /home/quintasan/Sauce/rssbridge
-  revision: 059657a5e90a5c30e44326ecd0cf88e8896518dc
+  remote: https://github.com/Quintasan/rssbridge.git
+  revision: 4e229e5dc58cca3255c3cd21165db83888874946
   specs:
     rssbridge (0.1.0)
+      tty-logger (~> 0.6.0)
       zeitwerk (~> 2.5.4)
 
 PATH
