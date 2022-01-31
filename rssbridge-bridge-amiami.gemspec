@@ -35,6 +35,8 @@ Gem::Specification.new do |spec|
   spec.add_dependency "nokogiri", "~> 1.13.1"
   spec.add_dependency "ferrum", "~> 0.11"
   spec.add_dependency "tty-logger", "~> 0.6.0"
+  spec.add_dependency "rss"
+  spec.add_dependency "sqlite3"
 
   spec.add_development_dependency "rake", "~> 13.0"
   spec.add_development_dependency "rspec", "~> 3.0"
